@@ -1,3 +1,4 @@
+# What up class, This is what I recommend you run to see RBT's
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Button, TextBox
 import sys
